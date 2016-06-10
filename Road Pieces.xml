@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod>
+  <ModName>Road Pieces</ModName>
+  <ModDiscription>Road Pieces to make roads!
+</ModDiscription>
+  <Objects>
+    <Object>
+      <OBJName>Road Pieces@Parking End</OBJName>
+      <Type>deco</Type>
+      <inGameName>Parking End</inGameName>
+      <price>5</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Roads</category>
+      <heightDelta>0.125</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>5D5D5D</Color1>
+      <Color2>F1F1F1</Color2>
+      <Color3>1C0FFF</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Road Pieces@Parking Straight</OBJName>
+      <Type>deco</Type>
+      <inGameName>Parking Straight</inGameName>
+      <price>5</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Roads</category>
+      <heightDelta>0.125</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>5D5D5D</Color1>
+      <Color2>F1F1F1</Color2>
+      <Color3>1C0FFF</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Road Pieces@Road Corner</OBJName>
+      <Type>deco</Type>
+      <inGameName>Road Corner</inGameName>
+      <price>5</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Roads</category>
+      <heightDelta>0.125</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>5D5D5D</Color1>
+      <Color2>F1F1F1</Color2>
+      <Color3>1C0FFF</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Road Pieces@Road Flat</OBJName>
+      <Type>deco</Type>
+      <inGameName>Road Flat</inGameName>
+      <price>5</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Roads</category>
+      <heightDelta>0.125</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>5D5D5D</Color1>
+      <Color2>51FF00</Color2>
+      <Color3>1C0FFF</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Road Pieces@Road Middle</OBJName>
+      <Type>deco</Type>
+      <inGameName>Road Middle</inGameName>
+      <price>5</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Roads</category>
+      <heightDelta>0.125</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>5D5D5D</Color1>
+      <Color2>F1F1F1</Color2>
+      <Color3>1C0FFF</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Road Pieces@Road Side</OBJName>
+      <Type>deco</Type>
+      <inGameName>Road Side</inGameName>
+      <price>5</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Roads</category>
+      <heightDelta>0.125</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Diffuse</shader>
+      <Color1>5D5D5D</Color1>
+      <Color2>F1F1F1</Color2>
+      <Color3>1C0FFF</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+  </Objects>
+</Mod>
